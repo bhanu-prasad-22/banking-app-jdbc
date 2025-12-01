@@ -121,7 +121,7 @@ mvn clean package
 
 mvn exec:java -Dexec.mainClass="com.example.bank.App"
 
-Or run from IntelliJ by executing App.main().
+Or run from IntelliJ by executing BankApplication.java.
 
 
 ---
